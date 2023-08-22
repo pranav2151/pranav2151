@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav2151&label=Profile%20views&color=0e75b6&style=flat" alt="pranav2151" /> </p>
 
-- 🌱 I’m currently learning **MEARN Stack Development.**
+- 🌱 I’m currently learning **MERN Stack Development.**
 
 - 👨‍💻 Portfolio Link [https://pranavshelke.dorik.io/](https://pranavshelke.dorik.io/)
 
